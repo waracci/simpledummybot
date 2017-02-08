@@ -1,0 +1,15 @@
+{
+  "name": "simpledummybot",
+  "version": "1.0.0",
+  "description": "This is my Third Simple Dummy Twitter Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waracci",
+  "license": "ISC",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.5"
+  }
+}
